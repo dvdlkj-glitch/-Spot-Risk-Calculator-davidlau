@@ -1,1 +1,10 @@
-
+[
+  "test_spot_risk_core.py::test_degenerate_structure_does_not_raise",
+  "test_spot_risk_core.py::test_game_plan_text",
+  "test_spot_risk_core.py::test_nvda_long_golden_values",
+  "test_spot_risk_core.py::test_short_is_mirror_and_positive_risk",
+  "test_spot_risk_core.py::test_spot_equals_long",
+  "test_spot_risk_core.py::test_total_risk_within_one_share_of_budget",
+  "test_spot_risk_core.py::test_wilder_atr_basic",
+  "test_spot_risk_core.py::test_wilder_atr_needs_enough_bars"
+]
